@@ -1,5 +1,7 @@
 # 7-Segment Counter with Wemos D1
 
+<img src="https://github.com/easai/7seg-d1/blob/main/IMG_2605.jpeg" width=300 />
+
 ## Overview
 This project demonstrates how to build a simple circuit that drives a 7-segment display using a Wemos D1 board. The circuit counts sequentially and displays the numbers on the 7-segment module. It is designed as an educational project to explore microcontroller control of digital displays.
 
